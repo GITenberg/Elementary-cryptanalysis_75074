@@ -5,12 +5,17 @@ contributor:
     agent_name: Lamb, George
     gutenberg_agent_id: '56399'
     url: http://www.gutenberg.org/2009/agents/56399
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaines, Helen
     gutenberg_agent_id: '57810'
     url: http://www.gutenberg.org/2009/agents/57810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75074#Elementary-cryptanalysis
 gutenberg_issued: '2025-01-09'
 gutenberg_type: Text
 identifiers:
